@@ -8,9 +8,7 @@ Membros:
 
 -João Pedro; Cursando as disciplinas: Arquitetura de Computadores, Banco de dados II, Engenharia de Software II, Programação para Internet I, Sistemas Operacionais.
 
-
 #Definição de projeto:
-
 
 -Que problema será abordado/resolvido?
 
